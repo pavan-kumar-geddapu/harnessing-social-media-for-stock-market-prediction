@@ -1,3 +1,4 @@
 input/values-of-top-nasdaq-copanies-from-2010-to-2020/*
 input/tweets-about-the-top-companies-from-2015-to-2020/*
 input/processed_data/*
+.DS_Store
