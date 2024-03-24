@@ -1,4 +1,5 @@
 # Harnessing Social Media for the Stock Market Prediction
+## CSE 572 Data Mining
 An Exploration of Twitter Sentiment Analysis
 
 
